@@ -133,6 +133,12 @@
       padding: 10vh 0 15vh;
       text-align: center;
     }
+    .soc-footer {
+    background-color: #000;
+    padding-bottom: 1em;
+    text-align: right;
+    }
+
     .footer-logo img {
       width: 50px;
     }
@@ -144,6 +150,7 @@
     .footer h3 span {
       color: #aaa;
     }
+    .footer
     .footer-nav li {
       display: inline-block;
       margin: 2em 1em 0;
